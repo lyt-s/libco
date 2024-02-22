@@ -1,0 +1,1 @@
+/usr/bin/g++ -L/usr/local/opt/llvm/lib -rdynamic CMakeFiles/example_poll.dir/example_poll.cpp.o -o example_poll  libcolib.a -lpthread -ldl 
